@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="IR Sweeps_data" version="1.3.0" audacityversion="2.3.3" sel0="9.5357935484" sel1="9.5357935484" vpos="176" h="0.0000000000" zoom="43.8348416290" rate="96000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="IR Sweeps_data" version="1.3.0" audacityversion="2.3.3" sel0="9.5357935484" sel1="9.5357935484" vpos="0" h="0.0000000000" zoom="43.8348416290" rate="96000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags/>
-	<wavetrack name="Studio IR Cheap and Clappy" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Studio IR Cheap and Clappy" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="86065">
 				<waveblock start="0">
@@ -12,7 +12,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Clappy guitar responce" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Clappy guitar responce" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="56052">
 				<waveblock start="0">
@@ -41,7 +41,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar Trial 1" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Guitar Trial 1" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1265184">
 				<waveblock start="0">
@@ -63,7 +63,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar IR Sweep" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Guitar IR Sweep" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1277472">
 				<waveblock start="0">
@@ -85,7 +85,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar IR sweep Edited" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Guitar IR sweep Edited" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1277472">
 				<waveblock start="0">
@@ -107,7 +107,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar IR Sweep" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Room IR Sweep" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1697280">
 				<waveblock start="0">
@@ -135,7 +135,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar IR Sweep" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Room IR Sweep" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1697280">
 				<waveblock start="0">
@@ -163,7 +163,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar IR Sweep Edited" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Room IR Sweep Edited" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1020558">
 				<waveblock start="0">
@@ -185,7 +185,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar IR Sweep Edited" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Room IR Sweep Edited" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1020558">
 				<waveblock start="0">
@@ -207,7 +207,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar IR Sweep Edited Left" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="96000" gain="1.0" pan="-1.0" colorindex="0">
+	<wavetrack name="Room IR Sweep Edited Left" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="96000" gain="1.0" pan="-1.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1020558">
 				<waveblock start="0">
@@ -229,7 +229,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Guitar IR Sweep Edited Right" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="1.0" colorindex="0">
+	<wavetrack name="Room IR Sweep Edited Right" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="96000" gain="1.0" pan="1.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1020558">
 				<waveblock start="0">
