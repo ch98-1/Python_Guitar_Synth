@@ -2,6 +2,10 @@
 Simple guitar synth written in python
 
 
+Instruction Source at:
+https://docs.google.com/document/d/1BVn7qqsjIpWU5SkhjeBeaDe8F48jFyILCA5uzm8uTbQ/edit?usp=sharing
+
+
 
 Addendum - How to use the Guitar Synth:
 For basic usage: 
